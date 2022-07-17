@@ -20,4 +20,4 @@ app.use('/api/register', require(__dirname + '/src/routes/register'));
 app.use('/api/search', require(__dirname + '/src/routes/search'));
 app.use('/api/orders', require(__dirname + '/src/routes/order'));
 app.use(express_1.default.static(__dirname + '/client/build'));
-app.listen(PORT, () => console.log(`${'../' + __dirname}server is listening on ${PORT}`));
+app.listen(PORT, () => console.log(`server is listening on ${PORT}`));
