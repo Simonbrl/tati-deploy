@@ -5,7 +5,7 @@
   "main": "app.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc && node dist/app.js",
+    "start": "npx typescript && node dist/app.js",
     "build:ts": "tsc",
     "build:react": "cd dist/client && npm run build",
     "dev:node": "nodemon app.ts",
