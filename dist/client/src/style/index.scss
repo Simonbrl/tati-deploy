@@ -1,0 +1,40 @@
+@use './mixins' as *;
+@use './placeholders' as *;
+@use './abstract' as *;
+@use './components' as *;
+@use './pages' as *;
+
+.container{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    @include responsive('sm'){max-width:540px;}
+    @include responsive('m'){max-width:720px;}
+    @include responsive('l'){max-width:960px;}
+    @include responsive('xl'){max-width:1140px;}
+    @include responsive('2xl'){max-width:1320px;}
+}
+.container-fluid{width: 100%;}
+.jumbotron{padding: 2rem 1rem;}
+.hidden{display: none;}
+.title-underline{
+    width: 4rem;
+    height: .5rem;
+}
+.jumbotron{padding: 4rem;}
+.jumbotron-nhm{
+    padding: 4rem 0;
+    .jumbotron-title{padding: 0 4rem;}
+}
+.jumbotron-nvm{padding: 0 4rem;}
+.jumbotron-title{
+    display: flex;
+    flex-direction: column;
+    row-gap: .5rem;
+    margin-bottom: 2rem;
+    h1{font-size: 30px;}
+}
+.flex{
+    display:flex;
+    width: 100%;
+}

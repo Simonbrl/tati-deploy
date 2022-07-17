@@ -1,0 +1,57 @@
+@use '../mixins/' as *;
+@use '../placeholders/' as *;
+.product-card{
+    border-radius: 5px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 360px;
+    position: relative;
+}
+.product-card-body{
+    flex: 0 0 70%;
+    max-height: 70%;
+    .product-card-image{
+        height: 100%;
+        object-fit: cover
+    }
+}
+.product-card-footer{
+    flex: 0 0 30%;
+    @include background-color('white');
+    @include text-color('dark');
+    padding: 1rem;
+}
+.product-card-name{
+    @extend %text-overflow-ellipsis;
+}
+.product-card-price{
+    display: flex;
+    padding-top: 1rem;
+    align-items: center;
+    column-gap: 1rem;
+    .product-price-new{
+        font-size: 40px;
+        font-weight: bold;
+        @include text-color('pink');
+    }
+    .product-price-old{
+        font-size: 25px;
+        font-weight: bold;
+        @include text-color('muted');
+        text-decoration: line-through;
+    }
+}
+.tati-plus-icon::before{
+    font-family: "Font Awesome 5 Pro"; 
+    content: "\f067";
+    font-size: 3rem;
+    background-color: rgba(0,0,0,0.3);
+    @include text-color('pink');
+    border-radius: 5px;
+    padding: 0 .5rem;
+    position: absolute;
+    top: .5rem;
+    right: .5rem;
+}

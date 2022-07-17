@@ -1,0 +1,38 @@
+@use '../mixins/' as *;
+
+.product {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5rem;
+    .img {
+        border-radius: 10px;
+        height: 120px;
+        width: 120px;
+        @include background-color('dark-grey');
+    }
+    .infos {
+        padding: 0.7rem;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        p {
+            font-size: 16px;
+            font-weight: 700;
+        }
+        .discount-price {
+            font-size: 30px;
+            font-weight: bold;
+            @include text-color('pink');
+            margin-right: 10px;
+        }
+        .real-price {
+            font-size: 20px;
+            font-weight: bold;
+            @include text-color('muted');
+            text-decoration: line-through;
+        }
+        input {
+            margin-top: 10px;
+        }
+    }
+}

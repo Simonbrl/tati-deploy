@@ -1,0 +1,78 @@
+@use '../mixins/' as *;
+
+.container.cart{
+    margin-top: 2rem;
+    @media (max-width: 1155px) { width: 95%; }
+    .content-cart {
+        display: flex;
+        justify-content: space-between;
+        column-gap: 1rem;
+        @media (min-width: 1155px) { }
+        @media (max-width: 1155px) { flex-flow: column; }
+        .left-side {
+            @media (min-width: 1155px) { width: 72%; }
+            @media (max-width: 1155px) { width: 100%; }
+            .cart {
+                min-height: 200px;
+                padding: 1rem;
+                @include background-color('white');
+                border-radius: 10px;
+            }
+            .favorites {
+                margin-top: 1rem;
+                min-height: 200px;
+                padding: 1rem;
+                @include background-color('white');
+                border-radius: 10px;
+            }
+        }
+        .right-side {
+            @media (min-width: 1155px) { width: 28%; }
+            @media (max-width: 1155px) { width: 100%; }
+            .total-cart {
+                margin-bottom: 1rem;
+                min-height: 150px;
+                padding: 1rem;
+                @include background-color('white');
+                border-radius: 10px;
+                display: flex;
+                flex-flow: column;
+                justify-content: space-between;
+                align-items: center;
+                @media (max-width: 1155px) {position: fixed; bottom: 0; z-index: 50; width: 100%; left: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0; box-shadow: 0px 0px 5px 2px lightgray; }
+                .total {
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                    .price {
+                        display: flex;
+                        justify-content: flex-end;
+                        column-gap: 10px;
+                        .discount-price {
+                            @include text-color('pink');
+                            font-weight: 700;
+                            font-size: 36px;
+                        }
+                        .real-price {
+                            margin-top: 4px;
+                            @include text-color('dark-grey');
+                            text-decoration: line-through;
+                            font-weight: 600;
+                            font-size: 28px;
+                        }
+                    }
+                }
+                input{
+                    width: 100%;
+                }
+            }
+            .suggests {
+                min-height: 250px;
+                padding: 1rem;
+                @include background-color('white');
+                border-radius: 10px;
+                @media (max-width: 1155px) { margin-bottom: 210px; }
+            }
+        }
+    }
+}

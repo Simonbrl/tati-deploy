@@ -1,0 +1,29 @@
+@use '../mixins/' as *;
+
+.jumbotron-nhm {
+    padding-bottom: 0!important;
+}
+
+.tati-message{
+    display: flex;
+    align-items: center;
+    .btn {
+        width: -moz-fit-content;
+        width: fit-content;
+    }
+    @media (max-width: 1155px) { flex-flow: column-reverse; margin-top: 100px; }
+}
+.tati-card-image, 
+.tati-message-text{flex: 0 0 50%;}
+
+.tati-plus-image {
+    width: 300px;
+}
+
+.tati-message-text{
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    padding-left: 4rem;
+    p{font-size: 20px; width: 80%;}
+}

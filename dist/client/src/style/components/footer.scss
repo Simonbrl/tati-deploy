@@ -1,0 +1,81 @@
+@use '../mixins/' as *;
+.footer-header {
+    margin-top: 3rem;
+    min-height: 130px;
+    @include background-color('purple-dark');
+    .pros {
+        padding: 50px 0;
+        display: flex;
+        justify-content: space-around;
+        .item {
+            width: 33%;
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            .img {
+                width: 60px;
+                height: 60px;
+                @include background-color('white');
+                margin-bottom: 0.5rem;
+            }
+            p {
+                @include text-color('white');
+                font-size: 16px;
+                font-weight: 800;
+                text-align: center;
+                @media (max-width: 766px) {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+}
+
+.footer-body {
+    min-height: 200px;
+    @include background-color('pink');
+    display: flex;
+    justify-content: space-evenly;
+    @media (max-width: 766px) {
+        flex-flow: column;
+        align-items: center;
+        justify-content: center;
+    }
+    padding: 4rem 6vw;
+    .logo {
+        @media (min-width: 766px) {
+            width: 30%;
+        }
+        @media (max-width: 766px) {
+            width: 80%;
+            margin-bottom: 50px;
+        }
+        .img {
+            background-image: url('../../../../client/public/assets/img/tati.png');
+            width: 105px;
+            height: 75px;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+        p {
+            color: white;
+            line-height: 1.5rem;
+        }
+    }
+    .infos {
+        display: flex;
+        flex-flow: column;
+        line-height: 1.5rem;
+        @include text-color('white');
+        @media (min-width: 766px) {
+            width: 30%;
+        }
+        @media (max-width: 766px) {
+            width: 80%;
+            margin-bottom: 50px;
+        }
+        a {
+            @include text-color('white');
+        }
+    }
+}

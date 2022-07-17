@@ -1,0 +1,8 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+
+@each $color, $value in $colors{
+    .text-#{$color}{
+        @include text-color($color);
+    }
+}

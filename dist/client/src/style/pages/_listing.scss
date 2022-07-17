@@ -1,0 +1,120 @@
+@use '../mixins/' as *;
+
+.listing {
+    display: flex;
+    height: 100%;
+
+    .filter-side {
+        width: 20%;
+        @include background-color('white');
+        height: 100%;
+        position: sticky;
+        top: 0;
+        bottom: 0;
+
+        .theme {            
+            padding: 2rem;
+            @include text-color('purple-dark');
+            font-size: 20px;
+            text-transform: uppercase;
+            font-weight: 800;
+            >li {
+                padding: 3px 0; 
+                cursor: pointer; 
+                a{
+                    @include text-color('purple-dark');
+                    font-size: 20px;
+                }
+            }
+            .category {
+                @include text-color('pink');
+                font-size: 18px;
+                text-transform: uppercase;
+                font-weight: 600;
+                margin-left: 10%;
+                .sub-category {
+                    a { @include text-color('dark'); }
+                    font-weight: 500;
+                    text-transform: initial;
+                    margin-left: 20%;
+                }
+            }
+        }
+        .btn-filters{
+            width: 100%;
+            cursor: pointer;
+            padding: 1rem 2rem;
+            font-weight: 600;
+            text-align: left;
+            @include background-color('pink-lighter');
+            position: relative;
+        }
+        .filters {
+            padding: 2rem;
+            font-weight: 500;
+
+            .price-range {
+                position: relative;
+
+                .price-output {
+                    font-weight: 600;
+                    position: absolute;
+                    top: 0;
+                    text-align: center;
+                    left: 0;
+                    right: 0;
+                }
+
+                .range {
+                    width: 100%;
+                    height: 2px;
+                    border-radius: 4px;
+                    @include background-color('pink');
+                    margin: 1rem 0;
+                }
+            }
+
+            .sizes {
+                padding: 1rem 0;
+                .grid-sizes {
+                    display: grid;
+                    grid-template-columns: repeat(auto-fill, minmax(45%, 1fr));
+                    grid-gap: 5px;
+                    padding: 0.5rem 0;
+
+                    .size {
+                        display: flex;
+                        align-items: center;
+                        justify-content: flex-start;
+                        column-gap: 8px;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+
+    .articles-side {
+        width: 80%;
+        padding: 2rem;
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            .dpdwn {
+                padding: 0.7rem 1rem;
+                border: 1px solid rgb(0, 0, 0, 0.2);
+                border-radius: 5px;
+            }
+        }
+
+        .articles {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            grid-gap: 10px;
+            padding: 2rem 0;
+        }
+    }
+}

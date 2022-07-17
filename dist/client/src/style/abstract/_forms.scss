@@ -1,0 +1,35 @@
+@use '../mixins' as *;
+@use '../placeholders' as *;
+
+.field-group{
+    display: flex;
+    .text-field{
+        padding: .7rem;
+        flex: 1 1 auto;
+        font-size: 15px;
+        @extend %text-overflow-ellipsis;
+    }
+    .field-group-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: .5rem .7rem;
+    }
+    .rounded{border-radius:5px;}
+    .rounded-l{border-radius: 5px 0 0 5px;}
+    .rounded-r{border-radius: 0 5px 5px 0;}
+    .field-quantity{
+        max-width: 3rem;
+        text-align: center;
+    }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}

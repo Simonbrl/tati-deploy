@@ -1,0 +1,41 @@
+@use '../mixins/' as *;
+.product-cards-carousel{
+    display: flex;
+    ul{
+        scroll-behavior: smooth;
+        display: flex;
+        overflow: auto;
+        column-gap: 2rem;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+        &::-webkit-scrollbar {display: none;}
+    }
+    position: relative;
+}
+.product-carousel-item{
+    display: inline-flex;
+    &:first-child{margin-left: 4rem;}
+    &:last-child{margin-right: 4rem;}
+}
+.carousel-previous,
+.carousel-next{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.5rem;
+    cursor: pointer;
+    @include background-color('pink');
+    @include text-color('white');
+    padding: 1rem;
+    z-index: 999;
+}
+.carousel-previous{
+    left: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.carousel-next{
+    right: 0;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}

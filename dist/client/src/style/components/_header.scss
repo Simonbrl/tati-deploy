@@ -1,0 +1,124 @@
+@use '../mixins/' as *;
+
+header{
+    @include background-color('pink');
+}
+.header-banner{
+    .membership{display: none;}
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    @include responsive('m'){
+        .membership{display: block;}
+    }
+    @include responsive('l'){
+        .field-group{width: 400px;}
+    }
+    @include responsive('xl'){
+        .menu-button{display: none;}
+    }
+}
+.header-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img{width: 70px; margin: 3px 0; }
+    @include responsive('l'){
+        img{width: 80px; margin: 5px 0;}
+    }
+}
+.header-banner-nav{
+    display: flex;
+    align-items: center;
+    column-gap: 2rem;
+    @include text-color('white');
+    i{
+        font-size: 1.5rem;
+        cursor: pointer;
+    }
+    justify-self: flex-end;
+}
+.menu-button{
+    font-size: 1.5rem;
+    cursor: pointer;
+    @include text-color('white');
+}
+.header-navigation{
+    @include background-color('purple-dark');
+    @include responsive('xl'){
+        @include background-color('white');
+        border-bottom: 1px solid;
+        @include border-color('light')
+    }
+}
+.nav-list{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-top: 1px solid white;
+    @include responsive('xl'){
+        flex-direction: row;
+    }
+    a{
+        display: block;
+        @include text-color('white');
+        padding: .5rem 1rem;
+        @include responsive('xl'){
+            @include text-color('purple-dark');
+        }
+    }
+}
+a:hover {
+    @include text-color('pink');
+}
+.nav-item .theme {
+    display: none;
+    padding: 0 2rem 2rem 2rem;
+    column-gap: 5rem;
+    align-items: center;
+    justify-content: flex-start;
+    @include background-color('white');
+    height: 240px;
+    width: 100%;
+    top: 35px;
+    left: 0;
+    z-index: 68;
+    position: absolute;
+    transition: all 1s ease-out;
+    opacity: 0;
+    .category {
+        display: flex;
+        justify-content: space-around;
+        column-gap: 10px;
+        .img {
+            width: 80px;
+            height: 150px;
+            @include background-color('dark');
+        }
+        .category-content {
+            h3 {
+                a {
+                    font-size: 16px;
+                    @include text-color('purple-dark');
+                    font-weight: 800;
+                }
+                margin-bottom: 0.5rem;
+            }
+            a {
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0.2rem 0;
+                padding: 0;
+            }
+        }
+    }
+
+}
+
+.nav-link:hover + .theme, .nav-item .theme:hover{
+    display: flex;
+    opacity: 1;
+}

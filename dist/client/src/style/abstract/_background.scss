@@ -1,0 +1,13 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+
+@each $color, $value in $colors{
+    .bg-#{$color}{
+        @include background-color($color);
+        @include text-color('white');
+    }
+    .bg-striped-#{$color}{
+        @include background-striped($color);
+        @include text-color('white');
+    }
+}

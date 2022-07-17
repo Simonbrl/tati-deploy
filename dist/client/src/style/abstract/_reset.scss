@@ -1,0 +1,35 @@
+@use '../mixins' as *;
+
+*, 
+*::before, 
+*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    @include text-color('dark');
+}
+
+h1{font-size: 20px;}
+h2{font-size: 18px;}
+h3{font-size: 16px;}
+
+ol, ul {list-style: none;}
+
+input, textarea, button, select{
+    border: none;
+    outline: none;
+    background: none;
+}
+textarea{resize: vertical}
+
+a{
+    @include text-color('dark');
+    outline: none;
+	text-decoration: none;
+}
+
+img{width: 100%;}

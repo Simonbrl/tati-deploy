@@ -1,0 +1,950 @@
+[
+    {
+     "name": "LIT MITCH",
+     "reference": "01W056111",
+     "category": "lit-double",
+     "prices":{"base": 270},
+     "images": ["https://www.tati.fr/phototheque/tati.fr/56250/large/01W056111A.jpg"],
+     "main_image": 0,
+     "description": "Pour ceux qui cherchent à garder le style moderne et original à la fois, optez dès à présent pour ce sublime lit qui projettera une certaine discrétion et un éclat magnifique dans votre intérieur ! Ce lit double, d’une dimension de couchage de 160x200 cm créera une atmosphère chaleureuse et moderne dans votre chambre. Il se distingue par sa qualité de fabrication et sa robustesse. Sa superbe tête de lit très originale vous assurera un excellent maintien lors de vos pauses lecture tout en lui donnant un côté aussi esthétique que chaleureux. Cet excellent lit moderne en PU, sera certainement un point d’attraction dans une chambre à coucher.",
+     "short_description": "DIMENSIONS : L 211 CM X P 144.50 CM X H 90.50 CM",
+     "keywords": ["lit","gris","chambre"]
+    },
+    {
+     "name": "ARMOIRE 4 PORTES 2 MIROIRS + 2 TIROIRS - DECOR BLANC - L 180 X P 56 X H 199 CM - TRIO",
+     "reference": "01W119477",
+     "category": "armoire-penderie-dressing",
+     "prices":{"base": 478},
+     "images": ["https://www.tati.fr/phototheque/tati.fr/119500/large/01W119477A.jpg"],
+     "main_image": 0,
+     "description": "Armoire 4 portes 2 miroirs et 2 tiroirs de 180 cm sur H200cm. Portes extérieures et tiroirs laqués blanc, cette armoire a 2 compartiments extérieurs équipés d'une tablette et tringle.",
+     "short_description": "",
+     "keywords": ["chambre","armoire"]
+    },
+    {
+     "name": "ENSEMBLE AERO CLIM MATELAS 140X190 CM + SOMMIER + PIEDS - RESSORTS ENSACHES - 28 CM - SERNIK",
+     "reference": "01W072968",
+     "category": "",
+     "prices":{"base": "1936"},
+     "images": [],
+     "main_image": null,
+     "description": "Ensemble SERNIK AERO CLIM 140x190 Le sommeil aéré : Matelas 140x190 - Accueil mousse HRaero35 - Suspension 570 micro ressorts - Mousse Dynacool30 - Suspension 570 ressorts ensachés - Mousse Dynacool24 - Coutil technique CLIMate control - Garnissage ouate lofthill et polyester hypoallergénique - Hauteur ±28cm - Garantie 5 ans dégressive - Sommier tapissier 140x190 suspension 14 lattes fixes - Garnissage mousse et ouate - Toile de fond anti-poussiere - Coutil déco gris - Hauteur ±21cm - 4 pieds bois noir 12cm - Garantie 2 ans",
+     "short_description": "",
+     "keywords": ["lit","sommier"]
+    },
+    {
+     "name": "ECO BUFFET DE CUISINE L 80 CM - BLANC BRILLANT",
+     "reference": "01W101260",
+     "category": "buffet-bahut-console",
+     "prices":{
+        "base": 253,
+        "plus": 215
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/101500/large/01W101260A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/101500/large/01W101260B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/101500/large/01W101260D.jpg"
+     ],
+     "main_image": 0,
+     "description": "ECO Buffet de cuisine - Structure en panneaux de particules mélaminés blanc brillant pour les façades et blanc mat pour les structures - Style et design contemporain - 3 portes, 1 tiroir et 3 étageres - Fabrication européenne - Dimensions totales L 80 x P 40 x H 178 cm.",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "MEUBLE TV JORDISON NOIR ET BOIS",
+     "reference": "01W060118",
+     "category": "meuble-tv",
+     "prices":{
+        "base": 260,
+        "plus": 215
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/60250/large/01W060118A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/60250/large/01W060118B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/60250/large/01W060118C.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/60250/large/01W060118D.jpg"
+   ],
+     "main_image": 0,
+     "description": "Ensemble meuble TV. Coloris NOIR &amp; BOIS. Le meuble TV JORDISON est une structure de rangement munie de plusierus étagère et placards pratiques. Ce beau meuble TV au style ultra tendance habillera votre intérieur d'une touche d'originalité dans un esprit \"naturel chic\". L'espace laissé libre à l'intérieur de la structure vous permettra d'y placer un grand écran de télévision ",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "BUFFET AVEC 1 GRANDE PORTE ET 1 PETITE PORTE \/ 1 TIROIR - NOIR",
+     "reference": "01W082837",
+     "category": "buffet-bahut-console",
+     "prices": {
+        "base": 149,
+        "plus": 137
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/83000/large/01W082837A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/83000/large/01W082837B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/83000/large/01W082837C.jpg"
+     ],
+     "main_image": 2,
+     "description": "Buffet avec 1 grande porte (gauche) et 1 petite porte \/ 1 tiroir (droite) - En panneaux de particules finition papier décor imitation chene foncé et maillage de rotin, piétement et poignées en métal noir - RUSSELL.",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "TÊTE DE LIT MAHUVA 160CM BOIS FONCÉ",
+     "reference": "01W042640",
+     "category": "sommier-et-tete-de-lit",
+     "prices": {
+        "base": 285,
+        "plus": 242
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/42750/large/01W042640A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/42750/large/01W042640B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/42750/large/01W042640C.jpg"
+     ],
+     "main_image": 0,
+     "description": "Une tête de lit originale pour une chambre pas banale ! Coloris BOIS FONCÉ. La tête de lit MAHUVA est une tête de lit qui saura mettre en valeur votre chambre grâce à son design élégant en bois foncé pour un look ultra-chic. Les deux côtés de cette tête de lit sont incurvés et procurent un effet légèrement englobant et cocooning. Le bois foncé ressortira encore plus sur un mur clair contrastant qui donnera un look très moderne à votre chambre. Un mur plus foncé derrière cette tête de lit et votre chambre aura des allures de boudoir intimiste et subtil. Placez cette belle tête de lit contre le mur de votre choix et plaquez-y votre sommier. En deux temps trois mouvements vous obtiendrez une chambre habillée d'un élément décoratif majeur et tendance qui donnera le ton et apportera beaucoup de cachet à votre pièce. Attention cette tête de lit en bois en est parfaite pour un sommier de taille classique 160cm mais mesure 190cm !",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "TABLE BASSE CLIFTON",
+     "reference": "01W042868",
+     "category": "table-basse",
+     "prices":{
+        "base": 107,
+        "plus": 83
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042868A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042868B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042868C.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042868D.jpg"
+     ],
+     "main_image": 0,
+     "description": "Vos instants de convivialité ne seront que meilleurs autour de cette belle table ! - Composition : MDF - Dimensions : 80X80X40cm",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "ULTRA CUISINE COMPLETE AVEC PLAN DE TRAVAIL L 2M40 - NOIR LAQUE BRILLANT",
+     "reference": "01W117852",
+     "category": "cuisine",
+     "prices": {
+        "base": 585,
+        "plus": 512
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/118000/large/01W117852A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/118000/large/01W117852B.jpg"
+     ],
+     "main_image": 0,
+     "description": "ULTRA Cuisine complete linéaire laqué noir brillant - Style et design contemporain - Structure en panneaux de particules - Composée d'1 meuble sous-évier, de 2 meubles bas, d'1 meuble hotte et de 3 meubles hauts. Pour une longueur de 2 m 40. Fabrication européenne.",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "SAINT-GOBAIN FOND DE HOTTE EN VERRE ART DECO 1 OBTENU PAR IMPRESSION DIGITALE + EMAILLAGE 70X60",
+     "reference": "01W081285",
+     "category": null,
+     "prices": {
+        "base": 125,
+        "plus": 105
+     },
+     "images": [],
+     "main_image": null,
+     "description": "Fond de hotte - verre de sécurité trempé selon EN12150. Fabrication française Saint-Gobain",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "SAINT-GOBAIN FOND DE HOTTE EN VERRE ONYX JAUNE OBTENU PAR IMPRESSION DIGITALE",
+     "reference": "01W080192",
+     "category": null,
+     "prices": {
+        "base": 109,
+        "plus": 92
+     },
+     "images": [],
+     "main_image": null,
+     "description": "Fond de hotte - verre de sécurité trempé selon EN12150. Fabrication française Saint-Gobain",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "DESSERTE EN MÉTAL PORTE BOUTEILLES",
+     "reference": "01W042804",
+     "category": null,
+     "prices": {
+        "base": 96,
+        "plus": 74
+     },
+     "images": [],
+     "main_image": null,
+     "description": "A la recherche d'un rangement nomade ? Optez pour cette desserte porte-bouteilles en métal !",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "CANAPÉ CLUB MARRON",
+     "reference": "01W042831",
+     "category": "canape",
+     "prices": {
+        "base": 490,
+        "plus": 460
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042831A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042831B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042831D.jpg"
+     ],
+     "main_image": 0,
+     "description": "Détendez-vous sur ce canapé esthétque et confortable ! - Composition : Hevea - Dimensions : 137X82X84cm",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "JAKE CANAPE CONTEMPORAIN 2 PLACES + TETIERES AJUSTABLES",
+     "reference": null,
+     "category": "canape",
+     "prices": {
+        "base": 684,
+        "plus": 638
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/122750/large/01W122573A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/122750/large/01W122573B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/122750/large/01W122573C.jpg"
+     ],
+     "main_image": 2,
+     "description": "",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "SUSPENSION CINÉMA",
+     "reference": "00W032634",
+     "category": "luminaire",
+     "prices": {
+        "base": 47,
+        "plus": 19
+     },
+     "images": [],
+     "main_image": null,
+     "description": "Modernisez votre intérieur avec cette suspension cinéma bicolore ! Son style industriel chic offre un abat-jour design suspendu par un double câblage. votre intérieur sera tout simplement sublimé ! Détail : Ampoule E27 max 10 W non incluse - Alimentation sur secteur - Entrée : 220-240V AC 50Hz - Longueur câble 80 cm - Dimensions Abat-jour 40x22 cm - 1 câble en acier pour soutenir l'abat-jour et 1 câble tressé pour le raccordement électrique.",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "TAPIS LUXE DORÉ, BLEU",
+     "reference": "01W038470",
+     "category": null,
+     "prices": {
+        "base": 52,
+        "plus": 21
+     },
+     "images": [],
+     "main_image": null,
+     "description": "Ce tapis à motifs doré apportera une belle note d'élégance à votre intérieur! \n\nCes tapis sont fabriqués en polyester, doux au toucher, ce qui le rend très facile à nettoyer, même sur les taches les plus tenaces. Tapis antidérapant et lavable en machine à 30°C.\n\nPoids : 720gr\/m2 (+\/- 7%)\n\nEpaisseur : 6mm (+\/- 2mm)\n\nDisponible en 5 tailles :\n\n- 50x80cm\n\n- 80x150cm\n\n- 120x180cm\n\n- 160x230cm\n\n- 200x290cm",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "MAKITA VISSEUSE A CHOCS LXT DTD152Z 18 V",
+     "reference": "01W079803",
+     "category": "outillage-electrique",
+     "prices": {
+        "base": 110,
+        "plus": 103
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/87500/large/01W087416A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/87500/large/01W087416B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/87500/large/01W087416C.jpg"
+     ],
+     "main_image": 0,
+     "description": "Visseuse a chocs LXT DTD152Z - Couple maximal : 165 Nm - Mandrin emmanchement 1\/4\" - Technologie de protection extreme (XPT) contre les poussieres, les débris et les liquides - Lampe de travail jumelée - Tampon en caoutchouc luisant dans l'obscurité. Vendue sans batterie et chargeur.",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "FAUTEUIL MODULABLE OUTDOOR IBIZA",
+     "reference": "01W042898",
+     "category": "fauteuil-pouf",
+     "prices": {
+        "base": 252,
+        "plus": 192
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042897A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042897B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/43000/large/01W042897C.jpg"
+     ],
+     "main_image": 1,
+     "description": "Profitez d'un moment à l'air frais sur ce fauteuil d'extérieur ultra stylé ! - Composition : Plastique - Dimensions : 84.5xxcm",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "PARURE DE LIT NIDA",
+     "reference": "01W059122",
+     "category": "lit-double",
+     "prices": {
+        "base": 69,
+        "plus": 28
+     },
+     "images": ["https://www.tati.fr/phototheque/tati.fr/59250/large/01W059161A.jpg"],
+     "main_image": 0,
+     "description": "Ensemble parure de lit imprimé comprenant housse de couette et taie d'oreiller 65x65cm, 80% Coton 20% Polyester, 54 fils\/cm²,\n\nBoutons au pied\n\nDisponible en 2 tailles :\n\n- 220x240cm\n\n- 240x260cm",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "TÊTE DE LIT MILANA 140CM TISSU GRIS",
+     "reference": "01W041258",
+     "category": "sommier-et-tete-de-lit",
+     "prices": {
+        "base": 139,
+        "plus": 118
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/41500/large/01W041257A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/41500/large/01W041257B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/41500/large/01W041257C.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/41500/large/01W041257E.jpg"
+     ],
+     "main_image": 0,
+     "description": "",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "ENSEMBLE ARMOIRE + REHAUSSE VARIA - DECOR BLANC - 4 PORTES - L 80,7 X P 51,1 X H 226,8 CM",
+     "reference": "01W101288",
+     "category": "armoire-penderie-dressing",
+     "prices": {
+        "base": 233,
+        "plus": 177
+     },
+     "images": [],
+     "main_image": null,
+     "description": "VARIA ENSEMBLE ARMOIRE 2 PORTES 2 TIROIRS + REHAUSSE 2 PORTES - Panneau de particules revetu papier décor Blanc - Penderie avec 1 tablette haute a gauche et lingere a droite avec 4 tablettes - Dimensions L: 80.7 X H: 226.8 X P: 51.1",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "OLYMPE | MATELAS EUPRAXIE MOUSSE À MÉMOIRE DE FORME",
+     "reference": "01W044053",
+     "category": "ensemble-sommier-et-matelas",
+     "prices": {
+        "base": 849,
+        "plus": 250
+     },
+     "images": [
+         "https://www.tati.fr/phototheque/tati.fr/44250/large/01W044056A.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/44250/large/01W044056B.jpg",
+         "https://www.tati.fr/phototheque/tati.fr/44250/large/01W044056D.jpg"
+     ],
+     "main_image": 0,
+     "description": "Offrez-vous le sommeil des sportifs de haut niveau ! Performance, récupération, énergie… Olympe mise sur la technologie et la Recherche &amp; Développement pour concevoir sa gamme de matelas et répondre ainsi aux besoins des sportifs et de celles et ceux qui souhaitent une bonne literie. Fabricant français, nous proposons des produits fabriqués à partir de matériaux de qualité et aux finitions soignées, tous labellisés CertiPur et Oeko-Tex. Le matelas Eupraxie offre un accueil moelleux et un soutien mi-ferme. Doté d'une mousse à mémoire de forme avec microcapsules de gel rafraîchissant, il assure à l'utilisateur un confort optimal. Elle permet en effet au matelas de s'adapter à chaque morphologie tout en conservant une température idéale en surface.",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "TÊTE DE LIT FLORA 180CM BOIS BLANC",
+     "reference": "01W041135",
+     "category": "sommier-et-tete-de-lit",
+     "prices": {
+        "base": 329,
+        "plus": 279
+     },
+     "images": ["https://www.tati.fr/phototheque/tati.fr/41250/large/01W041135A.jpg"],
+     "main_image": 0,
+     "description": "Tête de lit 180cm en bois sculpté\n\nColoris BLANC\n\nLa tête de lit FLORA est une tête de lit ultra décorative, chic et tendance qui trouvera parfaitement sa place dans une chambre moderne. Avec ses moulures florales et son bois blanc, vous vous assurez de personnaliser votre chambre de la plus belle des faç Élégance et raffinement pour cette tête de lit sculptée qui habillera joliment le mur contre lequel vous la placerez. N'hésitez plus et succombez au charme intemporel de cette tête de lit 180cm en bois sculpté !",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "CALPE BUREAU CHENE SONOMA L 160",
+     "reference": "01W105205",
+     "category": null,
+     "prices": {
+        "base": 308.98,
+        "plus": 280
+     },
+     "images": [
+            "https:\/\/www.tati.fr\/phototheque\/tati.fr\/105250\/large\/01W105205A.jpg",
+            "https:\/\/www.tati.fr\/phototheque\/tati.fr\/105250\/large\/01W105205B.jpg",
+            "https:\/\/www.tati.fr\/phototheque\/tati.fr\/105250\/large\/01W105205C.jpg "
+    ],
+     "main_image": 0,
+     "description": "1 porte, 1 tablette et 4 tiroirs - Dimensions de 3 tiroirs : L 31 x P 8,5 x H 43,4 cm - Dimensions du 4eme tiroir : L 31 x P 12,5 x H 43,4 cm - Dimensions bureau : L 160 x P 60 x H 72,2 cm.",
+     "short_description": " Bureau en avec bois aggloméré chene sonoma",
+     "keywords": ["Bureau","Mobilier","intérieur"]
+    },
+    {
+     "name": "LIT SUPERPOSÉ MÉTAL NICOLAS 1 + 2 PLACES",
+     "reference": "01W056125",
+     "category": "lit-double",
+     "prices": {
+        "base": 429,
+        "plus": 386
+     },
+     "images": ["https://www.tati.fr/phototheque/tati.fr/56250/large/01W056125A.jpg"],
+     "main_image": 0,
+     "description": "Les lits superposés NICOLAS vous offriront 1 couchage supérieur en 90 x 200 cm et 1 couchage inférieur en 140 x 200 cm. Leur structure en métal de 50 mm de diamètre vous garantira une parfaite stabilité ainsi qu'une excellence robustesse au fil des années. Peu encombrants, ils seront parfaits pour les petits espaces et les collectivités.\n\nCARACTERISTIQUES DU LIT NICOLAS :\n\nModèle : Lits superposés en métal gris NICOLAS\n\nStructure : Tube métal épaisseur 50 mm\n\nColoris : Gris\n\nStyle : Classique\n\nDimensions : L 162.8 x H 160 x P 214 cm\n\nHauteur sol\/1 lit : 33.8 cm\n\nHauteur sol\/second lit : 120.6 cm\n\nHauteur entre les 2 couchages : 81.8 cm\n\nDimensions du couchage : 90 x 200 et 140 x 200 cm\n\nNorme : Norme CE - Option(s) : Matelas vendus séparément\n\nMontage : Assemblage aisé à l'aide de la notice jointe",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "SHAKER EN VERRES AVEC RECETTES",
+     "reference": "01W128192",
+     "category": "table-basse",
+     "prices":{
+        "base": 20,
+        "plus": 26
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128192A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128192B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128192C.jpg"
+    ],
+     "main_image": 0,
+     "description": "Mélangez et préparez en un tour de main grâce à verre shaker !",
+     "short_description": "450 ML ",
+     "keywords": ["Verres","Recettes"]
+    },
+    {
+     "name": "MENAGERE 84 PIECES",
+     "reference": "01W128082",
+     "category": "etagere-meuble-rangement",
+     "prices": {
+        "base": 163,
+        "plus": 211
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128082A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128082B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128082C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128082D.jpg "
+    ],
+     "main_image": 0,
+     "description": "Cette belle ménagère est présentée dans un coffret en bois avec tiroir - 84 pièces",
+     "short_description": "Coffret en bois avec Tiroir ",
+     "keywords": ["Ménagère","Vaiselle"]
+    },
+    {
+     "name": "PLATEAU BAMBOU",
+     "reference": "01W128119",
+     "category": "table-basse",
+     "prices": {
+        "base": 58,
+        "plus": 75
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128119A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128119B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128250\/large\/01W128119C.jpg"
+    ],
+     "main_image": 0,
+     "description": "Servez sur ces 3 beaux plateaux en bambou !",
+     "short_description": "Set de 3 plateau en bois",
+     "keywords": ["Plateau","Set"]
+    },
+    {
+     "name": "SUSPENSION NOIRE OUTLINE, 5X E27-MAX.60W, IP20, 230V, CLASSE I",
+     "reference": "01W073647",
+     "category": "luminaire",
+     "prices":{"base": 180.22},
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/73750\/large\/01W073647A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/73750\/large\/01W073647B.jpg"
+     ],
+     "main_image": 0,
+     "description": "Suspension luminaire noire",
+     "short_description": "Marque Britop, garantie de 2 ans, Suspension luminaire noire ",
+     "keywords": ["Lumière","Décoration"]
+    },
+    {
+     "name": "SUSPENSION CAGE HAUTE FILIAIRE 20X20X38 CM",
+     "reference": "00W032639",
+     "category": "luminaire",
+     "prices": {
+        "base": 28,
+        "plus": 39
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032639A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032639B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032639C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032639D.jpg"
+     ],
+     "main_image": 0,
+     "description": "Apportez un brin d'exotisme dans votre intérieur avec cette suspension cage haute. Son charme réchauffera l'ambiance tout en offrant une déco 100% tendance",
+     "short_description": "Détail : Longueur câble 1.30 m - Abat-jour : 20x38 cm - Ampoule E27 max 10 W non incluse - Alimentation sur secteur - Entrée : 220-240V AC 50Hz.",
+     "keywords": []
+    },
+    {
+     "name": "RIDEAU COTON LOOK ROSE NUDE 140X250 CM ",
+     "reference": "01W102542",
+     "category": "canape",
+     "prices": {
+        "base": 24.08,
+        "plus": 27.56
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/102750\/large\/01W102542A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/102750\/large\/01W102542B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/102750\/large\/01W102542C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/102750\/large\/01W102542D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Rideau coton LOOK - Rose nude",
+     "short_description": "Apportez de la couleur avec ce beau nude à vos fenêtre ",
+     "keywords": ["Rideau","Fenetre","rose"]
+    },
+    {
+     "name": "MADECOSTORE STORE ENROULEUR JOUR ET NUIT SANS PERCAGE CHAINETTE COORDONNEE",
+     "reference": "01W115933",
+     "category": "canape",
+     "prices":{
+        "base": 49.69,
+        "plus": 54.10
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/116000\/large\/01W115933A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/116000\/large\/01W115933B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/116000\/large\/01W115933C.jpg"
+     ],
+     "main_image": 0,
+     "description": "Gamme First : double systeme de fixations a percer ou a clipser. Tube de 16mm avec encombrement réduit d'environ 4,5cm. Barre de lestage métal.Mécanisme : mécanisme a chainette PVC coordonné au tissu garanti 1 an.",
+     "short_description": "Bandes alternant tissu voilage et tissu tamisant",
+     "keywords": ["Voilage","Tamisant"]
+    },
+    {
+     "name": "PLAID FLANELLE SHERPA XXL 140X200",
+     "reference": "00W032698",
+     "category": "canape",
+     "prices":{
+        "base": 39,
+        "plus": 54
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032698A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032698B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032698C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032698D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Profitez d'une pause cocooning une fois confortablement enveloppé dans ce plaid ultra-doux !",
+     "short_description": "Composition principale : Textile",
+     "keywords": ["Plaid","Chaud"]
+    },
+    {
+     "name": "COUSSIN ETHNIQUE RELIEF LOSANGE ECRU 40X40",
+     "reference": "01W128536",
+     "category": "canape",
+     "prices": {
+        "base": 24,
+        "plus": 31
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128750\/large\/01W128536A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128750\/large\/01W128536B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128750\/large\/01W128536C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/128750\/large\/01W128536D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Apportez une note exotique à votre intérieur grâce à ce coussin ethnique relief losange écru !",
+     "short_description": "Couleur beige ",
+     "keywords": ["Coussin","ecru"]
+    },
+    {
+     "name": "LOT DE 8 HOUSSES DE CHAISE BORDEAUX ",
+     "reference": "01W059071",
+     "category": "canape",
+     "prices": {
+        "base": 24,
+        "plus": 59.99
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/59250\/large\/01W059071A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/59250\/large\/01W059071B.jpg"
+    ],
+     "main_image": 0,
+     "description": "Disponible en vert, blanc, mauve",
+     "short_description": "Donnez une nouvelle vie à votre intérieur grâce à nos housses de chaises disponible en différents coloris!!",
+     "keywords": ["Housse","Chaise","couleur","Polyester"]
+    },
+    {
+     "name": "TAPIS MARBRE JAUNE 200X290",
+     "reference": "01W038520",
+     "category": null,
+     "prices": {
+        "base": 52.50,
+        "plus": 131.24
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/38750\/large\/01W038520A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/38750\/large\/01W038520B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/38750\/large\/01W038520C.jpg"
+    ],
+     "main_image": 0,
+     "description": "Tapis antidérapant et lavable en machine à 30°C.",
+     "short_description": "Ce tapis tendance trouvera sa place dans n'importe quel style de design d'intérieur.",
+     "keywords": ["Tapis","Marbré","Déco"]
+    },
+    {
+     "name": "MIROIR MET JELLYFISH FER MDF ET VERRE-DORE D 78 X P 12 CM",
+     "reference": "01W102148",
+     "category": null,
+     "prices":{
+        "base": 243.2,
+        "plus": 268.91
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/102250\/large\/01W102148A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/102250\/large\/01W102148B.jpg"
+    ],
+     "main_image": 0,
+     "description": "Verre et doré ",
+     "short_description": "Sublimer votre salon avec ce beau mirroir !!",
+     "keywords": ["Miroir","déco"]
+    },
+    {
+     "name": "MEUBLE PORTEMANTEAU 60X L40 H 175 CM",
+     "reference": "00W033101",
+     "category": "etagere-meuble-rangement",
+     "prices": {
+        "base": 101,
+        "plus": 131
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/33250\/large\/00W033101A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/33250\/large\/00W033101B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/33250\/large\/00W033101C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/33250\/large\/00W033101D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Organisez au mieux la vie de la famille avec ce meuble portemanteau !",
+     "short_description": "",
+     "keywords": ["Portemanteau","déco"]
+    },
+    {
+     "name": "DECORATION MURALE EN METAL SOLEA 76X76 CM DORE",
+     "reference": "01W079878",
+     "category": null,
+     "prices": {
+        "base": 91.36,
+        "plus": 104.57
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/80000\/large\/01W079878A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/80000\/large\/01W079878B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/80000\/large\/01W079878C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/80000\/large\/01W079878D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Sublimer votre salon avec cette belle décoration murale",
+     "short_description": "",
+     "keywords": ["Murale","Déco"]
+    },
+    {
+     "name": "FAUTEUIL RELAX MULTI POSITION STRUCTURE PLIABLE BLEU ",
+     "reference": "01W054198",
+     "category": "salon-table-bar",
+     "prices": {
+        "base": 57.95,
+        "plus": 139
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54250\/large\/01W054198A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54250\/large\/01W054198B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54250\/large\/01W054198C.jpg"
+    ],
+     "main_image": 0,
+     "description": "Disponible en rose, vert citron, blanc ",
+     "short_description": "Fauteuil inclinable en 5 positions vous assure un confort maximal. Son assise et son dossier en textilène permet au fauteuil de rester en extérieur sans soucis. Ses couleurs à la mode lui donnent un design pêchu.",
+     "keywords": ["Jardin","Transat","été"]
+    },
+    {
+     "name": "SPA GONFLABLE ROND DROPSTITCH GONFLABLE EN 5 MIN - BACHE ET FILTRE INCLUS",
+     "reference": "01W054109",
+     "category": "spa-sauna-balneo",
+     "prices":{
+        "base": 594.95,
+        "plus": 999
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54250\/large\/01W054109A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54250\/large\/01W054109B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54250\/large\/01W054109C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54250\/large\/01W054109D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Le Spa Dropstitch gonflable rond 6 personnes Ospazia est une nouveauté produit.",
+     "short_description": "Après le travail, le sport, en famille ou entre amis, plongez vous dans une parenthèse de relaxation.",
+     "keywords": ["Jardin","spa","été"]
+    },
+    {
+     "name": "POILS+PLUMES POULAILLER DIDIER EN BOIS 2 POULES 89X70X93 CM",
+     "reference": "01W082509",
+     "category": null,
+     "prices": {
+        "base": 135.64,
+        "plus": 144.07
+     },
+     "images": ["https:\/\/www.tati.fr\/phototheque\/tati.fr\/82750\/large\/01W082509A.jpg"],
+     "main_image": 0,
+     "description": "Poulailler en bois",
+     "short_description": "Résistant et bien organisé, il est équipé de deux zones de nidification, d'une fenetre de ventilation avec grillage en acier galvanisé anti-corrosion et d'un tiroir a déjections en métal",
+     "keywords": ["Animaux","cabane","poules"]
+    },
+    {
+     "name": "PERCEUSE VISSEUSE SANS FIL-SOLO ",
+     "reference": "01W062379",
+     "category": "outillage-electrique",
+     "prices":{"base": 130.05},
+     "images": ["https:\/\/www.tati.fr\/phototheque\/tati.fr\/62500\/large\/01W062379A.jpg"],
+     "main_image": 0,
+     "description": "EINHELL Perceuse visseuse sans fil TE-CD 18\/50 Li BL - Solo - Avec éclairage LED",
+     "short_description": "",
+     "keywords": ["Bricolage","perceuse","outils"]
+    },
+    {
+     "name": "ASSASSINS CREED VALHALLA EDITION STANDARD ",
+     "reference": "01W065527",
+     "category": "jeux",
+     "prices":{"base": 41.14},
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/65750\/large\/01W065527A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/65750\/large\/01W065527B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/65750\/large\/01W065527C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/65750\/large\/01W065527D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Jeu d'action",
+     "short_description": "Entrez dans le monde d'Assassins",
+     "keywords": ["Jeu","ps4"]
+    },
+    {
+     "name": "CARE VELO ELLIPTIQUE CE 5484 MYCARE FIT",
+     "reference": "01W078954",
+     "category": "fitness-musculation",
+     "prices":{"base": 605.71},
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/79000\/large\/01W078954A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/79000\/large\/01W078954B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/79000\/large\/01W078954C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/79000\/large\/01W078954D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Velo elliptique compatible avec l'application Mycare fit",
+     "short_description": "Faites du sport chez vous !",
+     "keywords": ["Vélo","sport","intérieur"]
+    },
+    {
+     "name": "TENTE TUNNEL 6 PLACES",
+     "reference": "01W054379",
+     "category": "tente",
+     "prices":{"base": 184.95},
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54500\/large\/01W054379A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54500\/large\/01W054379B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54500\/large\/01W054379C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/54500\/large\/01W054379D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Tente de Camping Lucca 6 KingCamp - \" Le Camping Tout confort ! \"",
+     "short_description": "Idéale pour le camping et vos activités en plein air en famille ou avec vos amis.",
+     "keywords": ["Camping","Loisirs","Tente"]
+    },
+    {
+     "name": "SPARCO SIEGE AUTO ISOFIX - GROUPE 1\/2\/3 9-36 KG NOIR ET GRIS",
+     "reference": "01W086566",
+     "category": null,
+     "prices":{
+        "base": 168.23,
+        "plus": 189.14
+     },
+     "images": ["https:\/\/www.tati.fr\/phototheque\/tati.fr\/86750\/large\/01W086566A.jpg"],
+     "main_image": 0,
+     "description": "Housse retirable et lavable - Protection contre les impacts latéraux - Guide ceinture intuitif - Mécanisme d'inclinaison intégré",
+     "short_description": "Guide ceinture pour la position en diagonale - Connecteurs Isofix - Installation facile et pratique",
+     "keywords": ["Enfant","Siège","auto"]
+    },
+    {
+     "name": "SWEAT A CAPUCHE INTERIEURE SHERPA ",
+     "reference": "00W032700",
+     "category": "vetements-femme",
+     "prices":{
+        "base": 23.99,
+        "plus": 31
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032700A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032700B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032700C.jpg"
+    ],
+     "main_image": 0,
+     "description": "Fun et ultra-confortable, ce sweat à manche et capuche fera le bonheur des frileux, passez l'hiver en mode cocooning",
+     "short_description": "",
+     "keywords": []
+    },
+    {
+     "name": "SÈCHE-LINGE À CONDENSATION 7KG BOSCH 59.9CM, WTN85V07FF",
+     "reference": "01W114631",
+     "category": "lavage-sechage",
+     "prices":{
+        "base": 490.21,
+        "plus": 461.27
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/114750\/large\/01W114631A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/114750\/large\/01W114631B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/114750\/large\/01W114631C.jpg"
+    ],
+     "main_image": 0,
+     "description": "sèche-linge à condensation 7kg de la marque bosch. en achetant ce produit, vous profiterez d'une garantie de 2 ans !",
+     "short_description": "",
+     "keywords": ["lave-linge"]
+    },
+    {
+     "name": "RÉFRIGÉRATEUR 2 PORTES 212L FROID STATIQUE TELEFUNKEN",
+     "reference": "01W063191",
+     "category": "froid-conservation",
+     "prices":{"base": 323.37},
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/63250\/large\/01W063191A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/63250\/large\/01W063191B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/63250\/large\/01W063191c.jpg"
+    ],
+     "main_image": 0,
+     "description": "réfrigérateur 2 portes 212l froid statique de la marque telefunken. en achetant ce produit, vous profiterez d'une garantie de 2 ans !",
+     "short_description": "",
+     "keywords": ["frigo","réfrigérateur"]
+    },
+    {
+     "name": "FOUR ENCASTRABLE CONVECTION NATURELLE 71L CANDY 59.5CM",
+     "reference": "01W062899",
+     "category": "cuisson",
+     "prices":{"base": 226.86},
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/63000\/large\/01W062899A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/63000\/large\/01W062899B.jpg"
+    ],
+     "main_image": 0,
+     "description": "Accessoire(s) inclus : 1 grille, 1 lèchefrite Anti-traces : Oui Chaleur de sole : Oui Classe énergétique : A Connecté : Non Conso. énerg. en mode statique (kWh\/cycle ou MJ\/cycle) : 0.8 Contre porte plein verre : Oui Convection : Convection naturelle Convection naturelle : Oui Couleur : Inox Cuisson vapeur : Non Dim. H x L x P (cm) : 59.5 x 59.5 x 56.7 Dimensions d'encastrement H x L x P (cm) : 59 x 56 x 56 Ecran : Non Finition \/ Nuance : Porte miroir Gril : Oui Horloge : Non Indice d'efficacité énergétique (EEI) : 97.2 Lèchefrite : Oui Mode cuisson : Convection naturelle Mode de cuisson : Convection naturelle Nbre de modes de cuisson : 3 Nettoyage : Manuel Nettoyage du four : Manuel nombre de cavités : 1 Ouverture de la porte : Porte abattante Poids (kg) : 27 Porte froide : Non Puissance totale (W) : N\/C Revêtement de la cavité : Email lisse Sécurité enfants : Non Sonde à viande : Non Source de chaleur \/ Type d'énergie : Electrique Température maxi (°) : 240 Tournebroche : Non Type : Four encastrable Type four : Four Volume total net (L) : 71",
+     "short_description": "",
+     "keywords": ["four"]
+    },
+    {
+     "name": "EPILATEUR SET BEAUTE TETE 28 PINCES W&amp;D 2VIT TETE RASAGE BROSSE NETTYA BRAUN",
+     "reference": "01W080486",
+     "category": "beaute-bien-etre",
+     "prices":{
+        "base": 113.53,
+        "plus": 95.93
+     },
+     "images": ["https:\/\/www.tati.fr\/phototheque\/tati.fr\/80500\/large\/01W080486A.jpg"],
+     "main_image": 0,
+     "description": "Epilateur Wet &amp; Dry Silk Epil 5 pour une épilation ultra-douce, efficace, précise et facile ! - Un épilateur avec la technologie SensoSmart : Une pression ajustée pour une épilation efficace qui minimise les frictions avec la peau - Technologie Close Grip avec 28 pincettes pour une épilation d'une extrême précision en un seul passage : retire les poils aussi petits qu'un grain de sable grâce aux pincettes qui restent en contact constant avec la peau - Utilisable dans le bain ou sous la douche - 2 vitesses - Livré avec un capuchon pour débutantes pour une épilation en douceur, une tête de rasage avec accessoire, un épilateur visage FaceSpa avec brosse Ultra sensible et brosse nettoyante visage - Coloris blanc et rose - Garantie 2 ans.",
+     "short_description": "",
+     "keywords": ["épilateur-electrique"]
+    },
+    {
+     "name": "ASPIRATEUR BALAI",
+     "reference": "01W091979",
+     "category": "entretien-de-la-maison",
+     "prices":{
+        "base": 249.99,
+        "plus": 237.67
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/92000\/large\/01W091979A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/92000\/large\/01W091979B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/92000\/large\/01W091979C.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/92000\/large\/01W091979D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Aspirateur balai sans fil SpeedPro - Puissance 21,6 V - Multifonction, il vous permet une utilisation balai mais aussi aspirateur à main - Sa brosse à 180° est idéale pour une aspiration puissante et précise de la poussière, sur tous les types de sols - Quant à l'aspirateur à main, il bénéficie d'un suceur plat et d'une brosse intégrés, ce qui permet de les avoir toujours à portée de main - 2 vitesses disponibles pour vous adapter en fonctions des types de surfaces et de saletés - Son moteur PowerBlade délivrera un débit d'air élevé pour un nettoyage efficace - Filtre lavable pour un air plus propre et un débit d'air plus élevé - Bac à poussière facile à retirer et hygiénique - Station d'accueil murale - Autonomie de 40 min en mode normal et de 20 min en mode turbo - Coloris bleu - Garantie 2 ans.",
+     "short_description": "",
+     "keywords": ["aspirateur","balais"]
+    },
+    {
+     "name": "CAFETIÈRE À FILTRE MOULINEX FG 362810",
+     "reference": "01W077876",
+     "category": "cuisine",
+     "prices":{"base": 47.57},
+     "images": ["https:\/\/www.tati.fr\/phototheque\/tati.fr\/78000\/large\/01W077876A.jpg"],
+     "main_image": 0,
+     "description": "Arrêt automatique : Oui Capacité du réservoir (L) : 1.25 Couleur : Inox Couleur(s) secondaire(s) : Noir Départ programmable : Oui Dimensions H x L x P (cm) : 32 x 21.5 x 23.5 Ecran : Oui Filtre à eau : Non Gamme : Subito Interrupteur Marche\/Arrêt : Oui Matière de l'appareil : Habillage inox Nbre tasse(s) max. : 15 Niveau d'eau visible : Oui Poids (kg) : 1.71 Puissance max. (W) : 1000 Système anti-gouttes : Oui Type de cafetière : Filtre Type de verseuse : Verre Verseuse isotherme : Non",
+     "short_description": "",
+     "keywords": ["cafetière"]
+    },
+    {
+     "name": "TABLETTE TACTILE SAMSUNG SM-T 970 NZKAEUH",
+     "reference": "01W123569",
+     "category": "smartphone-tablette",
+     "prices":{
+        "base": 949,
+        "plus": 892.07
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/123750\/large\/01W123569A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/123750\/large\/01W123569B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/123750\/large\/01W123569C.jpg"
+    ],
+     "main_image": 0,
+     "description": "tablette tactile de la marque samsung. en achetant ce produit, vous profiterez d'une garantie de 2 ans !",
+     "short_description": "",
+     "keywords": ["tablette-tactile","samsung"]
+    },
+    {
+     "name": "ECOUTEURS EARBOX SIGNATURE SANS FIL RUBBER",
+     "reference": "00W032732",
+     "category": "accessoires-telephone",
+     "prices":{
+        "base": 61,
+        "plus": 47
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032732A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/32750\/large\/00W032732C.jpg"
+    ],
+     "main_image": 0,
+     "description": "Les écouteurs design nouvelle génération sont là ! Révolutionnaires. légers et ultra-performants. les écouteurs EarBox Signature offrent une expérience sonore d'une qualité optimale sans fil ni branchement. Disposez-les dans chaque oreille pour écouter votre musique ou pour téléphoner. ils tiennent sans effort grâce à un design ergonomique spécialement étudié pour s'adapter à chaque morphologie. La configuration avec votre téléphone est instantanée. il suffira ensuite de les disposer dans leur boîtier pour les recharger rapidement sans branchement. succès garanti ! - Boîtier de charge autonome - Autonameie : 4 h 30 - Sans fil - Kit mains-libres - Connexion Bluetooth - Dragonne incluse - Câble inclus - Musique - Appels - Universel : compatible Android. IOS. Windows - Notice incluse - Modèle déposé CMP",
+     "short_description": "",
+     "keywords": ["écouteurs sans fil"]
+    },
+    {
+     "name": "TV LED - LCD 50 POUCES SONY 4K UHD G, KD50X89JAEP",
+     "reference": "01W124165",
+     "category": "televiseur",
+     "prices":{
+        "base": 999,
+        "plus": 836.05
+     },
+     "images": [
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/124250\/large\/01W124165A.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/124250\/large\/01W124165B.jpg",
+        "https:\/\/www.tati.fr\/phototheque\/tati.fr\/124250\/large\/01W124165D.jpg"
+    ],
+     "main_image": 0,
+     "description": "Téléviseur LED 126 cm - Résolution 3 840 x 2 160 pixels - 4 fois plus de détails que la Full HD grâce au puissant processeur X1 de Sony qui permet de convertir et d'afficher plus de détails sur toutes vos sources vidéo en les convertissant avec précision au format 4K. Il analyse l'image pour traiter chaque objet de façon indépendante pour encore plus de précision - La technologie Triluminos Display reproduit une très large palette de couleurs - La technologie Sony Motionflow XR 400 Hz permet un rafraîchissement de l'image plus rapide pour des images plus fluides - X-Balanced Speaker : Equipé d'une nouvelle génération de haut-parleur, les voix sont reproduites avec plus de fidélité et se détachent de la bande son pour un son plus clair. Le son est plus enveloppant pour une immersion plus intense - La technologie Dolby Atmos permet de reproduire des effets sonores verticaux et horizontaux. La technologie Dolby Vision délivre plus de contraste et de couleurs pour les images plus réalistes. Découvrez de nouvelles sensations et une immersion ultime - Ambient Optimisation : Votre téléviseur s'adapte à votre environnement. Un capteur de luminosité ajuste en temps réel le contraste de votre téléviseur en fonction de l'intensité lumineuse de votre pièce. Une fonction de calibration audio automatique utilise le micro de la télécommande pour ajuster le son aux dimensions de votre pièce et aux obstacles éventuels pour toujours plus de réalisme - La série X96J embarque le HDMI 2.1 - Google TV : Plus de 5 000 applications disponibles directement sur votre TV pour vivre pleinement vos passions.",
+     "short_description": "",
+     "keywords": ["télé","led"]
+    },
+    {
+     "name": "BARRE DE SON LUMINEUSE BLUETOOTH 5.0 - 60W - PORTEE 10M",
+     "reference": "01W111379",
+     "category": "enceinte-caisson",
+     "prices":{
+        "base": 41.15,
+        "plus": 37.8
+     },
+     "images": ["https:\/\/www.tati.fr\/phototheque\/tati.fr\/111500\/large\/01W111379A.jpg"],
+     "main_image": 0,
+     "description": "BS30 - 60 W - 39 cm - Lumieres synchronisées avec la musique - Bluetooth V5.0+EDR - Radio FM - Fonction jumelage 2 X BS30 (TWS mode) - Micro intégré (mains-libres) - Port USB 2.0- Port carte micro SD- Entrée AUX-IN -Entrée DC 5V - Batterie rechargeable 1200mAh - Autonameie : 2~3 heures - Temps de charge : 3-4 h - Câble USB inclus",
+     "short_description": "RADIO FM, PORT USB, MICRO-SD",
+     "keywords": ["enceinte connectée"]
+    }
+]

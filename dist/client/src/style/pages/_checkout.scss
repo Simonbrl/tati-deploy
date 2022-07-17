@@ -1,0 +1,77 @@
+@use '../mixins/' as *;
+.checkout {
+    display: flex;
+    column-gap: 1rem;
+    margin-top: 1rem;
+    @media (max-width: 766px) {
+        flex-flow: column;
+        row-gap: 1rem;
+    }
+    .user-info {
+        border-radius: 10px;
+        @include background-color('white');
+        padding: 1rem;
+        min-height: 300px;
+        width: 40%;
+        @media (max-width: 766px) {
+            width: 100%;
+        }
+        display: flex;
+        flex-flow: column;
+        .mail {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        input {
+            margin-top: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        h4 {
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+        }
+        .card-info {
+            display: flex;
+            column-gap: 1rem;
+            .date-expiration {
+                width: 60%;
+            }
+            .cvv {
+                width: 40%;
+            }
+        }
+    }
+    .order-info {
+        border-radius: 10px;
+        @include background-color('white');
+        min-height: 300px;
+        padding: 1rem;
+        width: 60%;
+        @media (max-width: 766px) {
+            width: 100%;
+        }
+        .total {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            .price {
+                display: flex;
+                justify-content: flex-end;
+                column-gap: 10px;
+                .discount-price {
+                    @include text-color('pink');
+                    font-weight: 700;
+                    font-size: 36px;
+                }
+                .real-price {
+                    margin-top: 4px;
+                    @include text-color('dark-grey');
+                    text-decoration: line-through;
+                    font-weight: 600;
+                    font-size: 28px;
+                }
+            }
+        }
+    }
+}

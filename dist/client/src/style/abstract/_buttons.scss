@@ -1,0 +1,32 @@
+@use '../variables' as *;
+@use '../mixins' as *;
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: .5rem;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    padding: .7rem 1rem;
+    border-radius: 5px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+@each $color, $value in $colors {
+    .btn-#{$color}{
+        @include background-color($color);
+    }
+    .btn-outline-#{$color}{
+        @include text-color($color);
+        border: 1px solid $value;
+        &:hover{
+            @include text-color('white');
+            @include background-color($color);
+        }
+    }
+}
