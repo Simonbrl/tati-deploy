@@ -15,7 +15,7 @@
     "client": "npm start --prefix dist/client",
     "build": "npm run build --prefix dist/client",
     "deploy": "npm run build:react && npm install && npm start",
-    "heroku-postbuild": "cd dist/client && npm install && npm run build"
+    "heroku-postbuild": "npm install tsc && npm build:ts && cd dist/client && npm install && npm run build"
   },
   "keywords": [],
   "author": "",
