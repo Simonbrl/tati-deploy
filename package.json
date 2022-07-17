@@ -12,7 +12,9 @@
     "dev:ts": "tsc -w",
     "dev:react": "cd dist/client && npm start",
     "dev": "concurrently -k -n \"Node,TypeScript,React\" -p \"[{name}]\" -c \"green,blue,cyan\" \"npm run dev:node\" \"npm run dev:ts\" \"npm run dev:react\"",
-    "deploy": "npm run build:react && npm start"
+    "client": "npm start --prefix dist/client",
+    "build": "npm run build --prefix dist/client",
+    "deploy": "npm run build --prefix dist/client && npm start"
   },
   "keywords": [],
   "author": "",
