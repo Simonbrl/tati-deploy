@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node dist/app.js",
-    "build:ts": "tsc --build --clean",
+    "build:ts": "tsc",
     "build:react": "cd dist/client && npm run build",
     "dev:node": "nodemon app.ts",
     "dev:ts": "tsc -w",
@@ -15,7 +15,7 @@
     "client": "npm start --prefix dist/client",
     "build": "npm run build --prefix dist/client",
     "deploy": "npm run build:react && npm install && npm start",
-    "postinstall":"npm i typescript && tsc --build --clean",
+    "postinstall":"npm i typescript && tsc",
     "heroku-postbuild": "cd dist/client && npm install && npm run build"
   },
   "keywords": [],
